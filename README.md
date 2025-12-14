@@ -13,7 +13,7 @@ Hi there! 👋 I’m Boss Natiyut, a second-year computer engineer student at Ch
 ## Skills ⚙️
  - ### Programming Languages <br>
 ![My Skills](https://skillicons.dev/icons?i=python,cpp)
-- ### Web development <br>
+- ### Web Development <br>
 ![My Skills](https://skillicons.dev/icons?i=html,css,js)
 - ### Database <br>
 ![My Skills](https://skillicons.dev/icons?i=mysql,mongodb)
