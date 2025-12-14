@@ -1,6 +1,6 @@
 ## Welcome to My Profile
 ![forthebadge](https://github.com/CEDT-Chula/For-The-Cedt-Badge/blob/main/badges/chula-engineer.svg?raw=true) ![forthebadge](https://github.com/CEDT-Chula/For-The-Cedt-Badge/blob/main/badges/nisit-chula.svg) <br>
-Hi there! I’m *Boss Natiyut*. I’m second-year computer engineer student from CEDT program of *Chulalongkorn University*. I'm always excited to explore new challenges and opportunities.
+Hi there! 👋 I’m Boss Natiyut, a second-year computer engineer student at Chulalongkorn University. I enjoy exploring new challenges and opportunities in technology and beyond.
 
 ## Experience :briefcase:
 - Developed a system for collecting, processing, and visualizing sensor data
